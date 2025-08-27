@@ -7,3 +7,6 @@ package-lock.json
 
 .project
 serve.bat
+
+# 忽略内部项目代码
+docs/projects/
